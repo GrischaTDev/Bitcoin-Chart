@@ -1,0 +1,23 @@
+body {
+    height: 100vh;
+    color: white;
+    background-color: rgb(43, 43, 43);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#course {
+    font-size: 28px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
+
+#chart {
+    height: 400px;
+    width: 800px;
+}
